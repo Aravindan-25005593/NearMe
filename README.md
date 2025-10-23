@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 ## 1.sample.html
 <html>
 <head>
@@ -112,6 +113,7 @@ The Nithyakalyana Perumal sanctum is present in the temple. In the praghara, the
 </html>
 
 ## 4.temple2.html
+
 <html>
 <head>
 <title>My Home Town</title>
@@ -184,7 +186,7 @@ The railway station is located on Railway station road off the East Coast Road (
 </body>
 </html>
 
-
+```
 
 ## OUTPUT
 ![alt text](static/map.png)
